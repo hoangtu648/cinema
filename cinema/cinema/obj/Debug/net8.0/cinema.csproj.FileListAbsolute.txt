@@ -1,0 +1,1118 @@
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\appsettings.json
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\cinema.exe
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\cinema.deps.json
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\cinema.runtimeconfig.json
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\cinema.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\cinema.pdb
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\Humanizer.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\source\repos\cinema\cinema\obj\Debug\net8.0\cinema.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\cinema\cinema\obj\Debug\net8.0\cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\cinema\cinema\obj\Debug\net8.0\cinema.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\cinema\cinema\obj\Debug\net8.0\cinema.AssemblyInfo.cs
+C:\Users\PC\source\repos\cinema\cinema\obj\Debug\net8.0\cinema.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\cinema\cinema\obj\Debug\net8.0\cinema.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\source\repos\cinema\cinema\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\PC\source\repos\cinema\cinema\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\PC\source\repos\cinema\cinema\obj\Debug\net8.0\staticwebassets\msbuild.cinema.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PC\source\repos\cinema\cinema\obj\Debug\net8.0\staticwebassets\msbuild.build.cinema.props
+C:\Users\PC\source\repos\cinema\cinema\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.cinema.props
+C:\Users\PC\source\repos\cinema\cinema\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.cinema.props
+C:\Users\PC\source\repos\cinema\cinema\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\PC\source\repos\cinema\cinema\obj\Debug\net8.0\scopedcss\bundle\cinema.styles.css
+C:\Users\PC\source\repos\cinema\cinema\obj\Debug\net8.0\cinema.csproj.Up2Date
+C:\Users\PC\source\repos\cinema\cinema\obj\Debug\net8.0\cinema.dll
+C:\Users\PC\source\repos\cinema\cinema\obj\Debug\net8.0\refint\cinema.dll
+C:\Users\PC\source\repos\cinema\cinema\obj\Debug\net8.0\cinema.pdb
+C:\Users\PC\source\repos\cinema\cinema\obj\Debug\net8.0\cinema.genruntimeconfig.cache
+C:\Users\PC\source\repos\cinema\cinema\obj\Debug\net8.0\ref\cinema.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\PC\source\repos\cinema\cinema\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\appsettings.Development.json
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\appsettings.json
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\cinema.exe
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\cinema.deps.json
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\cinema.runtimeconfig.json
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\cinema.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\cinema.pdb
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\Castle.Core.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\Google.Protobuf.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\Humanizer.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\MySql.Data.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\System.CodeDom.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\ZstdSharp.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\download\cinema\cinema\cinema\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+D:\download\cinema\cinema\cinema\obj\Debug\net8.0\cinema.csproj.AssemblyReference.cache
+D:\download\cinema\cinema\cinema\obj\Debug\net8.0\cinema.GeneratedMSBuildEditorConfig.editorconfig
+D:\download\cinema\cinema\cinema\obj\Debug\net8.0\cinema.AssemblyInfoInputs.cache
+D:\download\cinema\cinema\cinema\obj\Debug\net8.0\cinema.AssemblyInfo.cs
+D:\download\cinema\cinema\cinema\obj\Debug\net8.0\cinema.csproj.CoreCompileInputs.cache
+D:\download\cinema\cinema\cinema\obj\Debug\net8.0\cinema.MvcApplicationPartsAssemblyInfo.cache
+D:\download\cinema\cinema\cinema\obj\Debug\net8.0\staticwebassets.build.json
+D:\download\cinema\cinema\cinema\obj\Debug\net8.0\staticwebassets.development.json
+D:\download\cinema\cinema\cinema\obj\Debug\net8.0\staticwebassets\msbuild.cinema.Microsoft.AspNetCore.StaticWebAssets.props
+D:\download\cinema\cinema\cinema\obj\Debug\net8.0\staticwebassets\msbuild.build.cinema.props
+D:\download\cinema\cinema\cinema\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.cinema.props
+D:\download\cinema\cinema\cinema\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.cinema.props
+D:\download\cinema\cinema\cinema\obj\Debug\net8.0\staticwebassets.pack.json
+D:\download\cinema\cinema\cinema\obj\Debug\net8.0\scopedcss\bundle\cinema.styles.css
+D:\download\cinema\cinema\cinema\obj\Debug\net8.0\cinema.csproj.Up2Date
+D:\download\cinema\cinema\cinema\obj\Debug\net8.0\cinema.dll
+D:\download\cinema\cinema\cinema\obj\Debug\net8.0\refint\cinema.dll
+D:\download\cinema\cinema\cinema\obj\Debug\net8.0\cinema.pdb
+D:\download\cinema\cinema\cinema\obj\Debug\net8.0\cinema.genruntimeconfig.cache
+D:\download\cinema\cinema\cinema\obj\Debug\net8.0\ref\cinema.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\appsettings.Development.json
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\appsettings.json
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\cinema.exe
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\cinema.deps.json
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\cinema.runtimeconfig.json
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\cinema.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\cinema.pdb
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\Castle.Core.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\Google.Protobuf.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\Humanizer.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\MySql.Data.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\System.CodeDom.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\System.Text.Json.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\ZstdSharp.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+D:\code\angular\cinema\be\cinema\cinema\obj\Debug\net8.0\cinema.csproj.AssemblyReference.cache
+D:\code\angular\cinema\be\cinema\cinema\obj\Debug\net8.0\cinema.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\angular\cinema\be\cinema\cinema\obj\Debug\net8.0\cinema.AssemblyInfoInputs.cache
+D:\code\angular\cinema\be\cinema\cinema\obj\Debug\net8.0\cinema.AssemblyInfo.cs
+D:\code\angular\cinema\be\cinema\cinema\obj\Debug\net8.0\cinema.csproj.CoreCompileInputs.cache
+D:\code\angular\cinema\be\cinema\cinema\obj\Debug\net8.0\cinema.MvcApplicationPartsAssemblyInfo.cache
+D:\code\angular\cinema\be\cinema\cinema\obj\Debug\net8.0\staticwebassets.build.json
+D:\code\angular\cinema\be\cinema\cinema\obj\Debug\net8.0\staticwebassets.development.json
+D:\code\angular\cinema\be\cinema\cinema\obj\Debug\net8.0\staticwebassets\msbuild.cinema.Microsoft.AspNetCore.StaticWebAssets.props
+D:\code\angular\cinema\be\cinema\cinema\obj\Debug\net8.0\staticwebassets\msbuild.build.cinema.props
+D:\code\angular\cinema\be\cinema\cinema\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.cinema.props
+D:\code\angular\cinema\be\cinema\cinema\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.cinema.props
+D:\code\angular\cinema\be\cinema\cinema\obj\Debug\net8.0\staticwebassets.pack.json
+D:\code\angular\cinema\be\cinema\cinema\obj\Debug\net8.0\scopedcss\bundle\cinema.styles.css
+D:\code\angular\cinema\be\cinema\cinema\obj\Debug\net8.0\cinema.csproj.Up2Date
+D:\code\angular\cinema\be\cinema\cinema\obj\Debug\net8.0\cinema.dll
+D:\code\angular\cinema\be\cinema\cinema\obj\Debug\net8.0\refint\cinema.dll
+D:\code\angular\cinema\be\cinema\cinema\obj\Debug\net8.0\cinema.pdb
+D:\code\angular\cinema\be\cinema\cinema\obj\Debug\net8.0\cinema.genruntimeconfig.cache
+D:\code\angular\cinema\be\cinema\cinema\obj\Debug\net8.0\ref\cinema.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\appsettings.Development.json
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\appsettings.json
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\cinema.exe
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\cinema.deps.json
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\cinema.runtimeconfig.json
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\cinema.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\cinema.pdb
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\Castle.Core.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\Google.Protobuf.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\Humanizer.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\MySql.Data.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\System.CodeDom.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\ZstdSharp.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\CodeChung\cinema\cinema\cinema\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+D:\CodeChung\cinema\cinema\cinema\obj\Debug\net8.0\cinema.csproj.AssemblyReference.cache
+D:\CodeChung\cinema\cinema\cinema\obj\Debug\net8.0\cinema.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeChung\cinema\cinema\cinema\obj\Debug\net8.0\cinema.AssemblyInfoInputs.cache
+D:\CodeChung\cinema\cinema\cinema\obj\Debug\net8.0\cinema.AssemblyInfo.cs
+D:\CodeChung\cinema\cinema\cinema\obj\Debug\net8.0\cinema.csproj.CoreCompileInputs.cache
+D:\CodeChung\cinema\cinema\cinema\obj\Debug\net8.0\cinema.MvcApplicationPartsAssemblyInfo.cache
+D:\CodeChung\cinema\cinema\cinema\obj\Debug\net8.0\staticwebassets.build.json
+D:\CodeChung\cinema\cinema\cinema\obj\Debug\net8.0\staticwebassets.development.json
+D:\CodeChung\cinema\cinema\cinema\obj\Debug\net8.0\staticwebassets\msbuild.cinema.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CodeChung\cinema\cinema\cinema\obj\Debug\net8.0\staticwebassets\msbuild.build.cinema.props
+D:\CodeChung\cinema\cinema\cinema\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.cinema.props
+D:\CodeChung\cinema\cinema\cinema\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.cinema.props
+D:\CodeChung\cinema\cinema\cinema\obj\Debug\net8.0\staticwebassets.pack.json
+D:\CodeChung\cinema\cinema\cinema\obj\Debug\net8.0\scopedcss\bundle\cinema.styles.css
+D:\CodeChung\cinema\cinema\cinema\obj\Debug\net8.0\cinema.csproj.Up2Date
+D:\CodeChung\cinema\cinema\cinema\obj\Debug\net8.0\cinema.dll
+D:\CodeChung\cinema\cinema\cinema\obj\Debug\net8.0\refint\cinema.dll
+D:\CodeChung\cinema\cinema\cinema\obj\Debug\net8.0\cinema.pdb
+D:\CodeChung\cinema\cinema\cinema\obj\Debug\net8.0\cinema.genruntimeconfig.cache
+D:\CodeChung\cinema\cinema\cinema\obj\Debug\net8.0\ref\cinema.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\appsettings.Development.json
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\appsettings.json
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\cinema.exe
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\cinema.deps.json
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\cinema.runtimeconfig.json
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\cinema.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\cinema.pdb
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\Castle.Core.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\Google.Protobuf.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\Humanizer.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\MySql.Data.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\System.CodeDom.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\System.Text.Json.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\ZstdSharp.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\obj\Debug\net8.0\cinema.csproj.AssemblyReference.cache
+D:\code\angular\cinema\be\cinema\cinema\cinema\obj\Debug\net8.0\cinema.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\angular\cinema\be\cinema\cinema\cinema\obj\Debug\net8.0\cinema.AssemblyInfoInputs.cache
+D:\code\angular\cinema\be\cinema\cinema\cinema\obj\Debug\net8.0\cinema.AssemblyInfo.cs
+D:\code\angular\cinema\be\cinema\cinema\cinema\obj\Debug\net8.0\cinema.csproj.CoreCompileInputs.cache
+D:\code\angular\cinema\be\cinema\cinema\cinema\obj\Debug\net8.0\cinema.MvcApplicationPartsAssemblyInfo.cache
+D:\code\angular\cinema\be\cinema\cinema\cinema\obj\Debug\net8.0\staticwebassets.build.json
+D:\code\angular\cinema\be\cinema\cinema\cinema\obj\Debug\net8.0\staticwebassets.development.json
+D:\code\angular\cinema\be\cinema\cinema\cinema\obj\Debug\net8.0\staticwebassets\msbuild.cinema.Microsoft.AspNetCore.StaticWebAssets.props
+D:\code\angular\cinema\be\cinema\cinema\cinema\obj\Debug\net8.0\staticwebassets\msbuild.build.cinema.props
+D:\code\angular\cinema\be\cinema\cinema\cinema\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.cinema.props
+D:\code\angular\cinema\be\cinema\cinema\cinema\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.cinema.props
+D:\code\angular\cinema\be\cinema\cinema\cinema\obj\Debug\net8.0\staticwebassets.pack.json
+D:\code\angular\cinema\be\cinema\cinema\cinema\obj\Debug\net8.0\scopedcss\bundle\cinema.styles.css
+D:\code\angular\cinema\be\cinema\cinema\cinema\obj\Debug\net8.0\cinema.csproj.Up2Date
+D:\code\angular\cinema\be\cinema\cinema\cinema\obj\Debug\net8.0\cinema.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\obj\Debug\net8.0\refint\cinema.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\obj\Debug\net8.0\cinema.pdb
+D:\code\angular\cinema\be\cinema\cinema\cinema\obj\Debug\net8.0\cinema.genruntimeconfig.cache
+D:\code\angular\cinema\be\cinema\cinema\cinema\obj\Debug\net8.0\ref\cinema.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\appsettings.json
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\cinema.exe
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\cinema.deps.json
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\cinema.runtimeconfig.json
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\cinema.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\cinema.pdb
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\Humanizer.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\PC\Music\cinema\cinema\cinema\obj\Debug\net8.0\cinema.csproj.AssemblyReference.cache
+C:\Users\PC\Music\cinema\cinema\cinema\obj\Debug\net8.0\cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Music\cinema\cinema\cinema\obj\Debug\net8.0\cinema.AssemblyInfoInputs.cache
+C:\Users\PC\Music\cinema\cinema\cinema\obj\Debug\net8.0\cinema.AssemblyInfo.cs
+C:\Users\PC\Music\cinema\cinema\cinema\obj\Debug\net8.0\cinema.csproj.CoreCompileInputs.cache
+C:\Users\PC\Music\cinema\cinema\cinema\obj\Debug\net8.0\cinema.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Music\cinema\cinema\cinema\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\PC\Music\cinema\cinema\cinema\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\PC\Music\cinema\cinema\cinema\obj\Debug\net8.0\staticwebassets\msbuild.cinema.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PC\Music\cinema\cinema\cinema\obj\Debug\net8.0\staticwebassets\msbuild.build.cinema.props
+C:\Users\PC\Music\cinema\cinema\cinema\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.cinema.props
+C:\Users\PC\Music\cinema\cinema\cinema\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.cinema.props
+C:\Users\PC\Music\cinema\cinema\cinema\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\PC\Music\cinema\cinema\cinema\obj\Debug\net8.0\scopedcss\bundle\cinema.styles.css
+C:\Users\PC\Music\cinema\cinema\cinema\obj\Debug\net8.0\cinema.csproj.Up2Date
+C:\Users\PC\Music\cinema\cinema\cinema\obj\Debug\net8.0\cinema.dll
+C:\Users\PC\Music\cinema\cinema\cinema\obj\Debug\net8.0\refint\cinema.dll
+C:\Users\PC\Music\cinema\cinema\cinema\obj\Debug\net8.0\cinema.pdb
+C:\Users\PC\Music\cinema\cinema\cinema\obj\Debug\net8.0\cinema.genruntimeconfig.cache
+C:\Users\PC\Music\cinema\cinema\cinema\obj\Debug\net8.0\ref\cinema.dll
+C:\Users\PC\Music\cinema\cinema\cinema\bin\Debug\net8.0\BCrypt.Net-Core.dll
+D:\cinema (1)\cinema\cinema\obj\Debug\net8.0\cinema.csproj.AssemblyReference.cache
+D:\cinema (1)\cinema\cinema\obj\Debug\net8.0\cinema.GeneratedMSBuildEditorConfig.editorconfig
+D:\cinema (1)\cinema\cinema\obj\Debug\net8.0\cinema.AssemblyInfoInputs.cache
+D:\cinema (1)\cinema\cinema\obj\Debug\net8.0\cinema.AssemblyInfo.cs
+D:\cinema (1)\cinema\cinema\obj\Debug\net8.0\cinema.csproj.CoreCompileInputs.cache
+D:\cinema (1)\cinema\cinema\obj\Debug\net8.0\cinema.MvcApplicationPartsAssemblyInfo.cache
+D:\cinema (1)\cinema\cinema\obj\Debug\net8.0\cinema.dll
+D:\cinema (1)\cinema\cinema\obj\Debug\net8.0\refint\cinema.dll
+D:\cinema (1)\cinema\cinema\obj\Debug\net8.0\cinema.pdb
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\appsettings.Development.json
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\appsettings.json
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\cinema.exe
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\cinema.deps.json
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\cinema.runtimeconfig.json
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\cinema.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\cinema.pdb
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\BCrypt.Net-Core.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\Castle.Core.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\Google.Protobuf.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\Humanizer.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\MySql.Data.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\System.CodeDom.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\ZstdSharp.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\cinema (1)\cinema\cinema\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+D:\cinema (1)\cinema\cinema\obj\Debug\net8.0\staticwebassets.build.json
+D:\cinema (1)\cinema\cinema\obj\Debug\net8.0\staticwebassets.development.json
+D:\cinema (1)\cinema\cinema\obj\Debug\net8.0\staticwebassets\msbuild.cinema.Microsoft.AspNetCore.StaticWebAssets.props
+D:\cinema (1)\cinema\cinema\obj\Debug\net8.0\staticwebassets\msbuild.build.cinema.props
+D:\cinema (1)\cinema\cinema\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.cinema.props
+D:\cinema (1)\cinema\cinema\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.cinema.props
+D:\cinema (1)\cinema\cinema\obj\Debug\net8.0\staticwebassets.pack.json
+D:\cinema (1)\cinema\cinema\obj\Debug\net8.0\scopedcss\bundle\cinema.styles.css
+D:\cinema (1)\cinema\cinema\obj\Debug\net8.0\cinema.csproj.Up2Date
+D:\cinema (1)\cinema\cinema\obj\Debug\net8.0\cinema.genruntimeconfig.cache
+D:\cinema (1)\cinema\cinema\obj\Debug\net8.0\ref\cinema.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\BCrypt.Net-Core.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\appsettings.Development.json
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\appsettings.json
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\cinema.exe
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\cinema.deps.json
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\cinema.runtimeconfig.json
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\cinema.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\cinema.pdb
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\BCrypt.Net-Core.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\Castle.Core.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\Google.Protobuf.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\Humanizer.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\MySql.Data.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\System.CodeDom.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\ZstdSharp.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+D:\DotNet\cinema\cinema\obj\Debug\net8.0\cinema.csproj.AssemblyReference.cache
+D:\DotNet\cinema\cinema\obj\Debug\net8.0\cinema.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\cinema\cinema\obj\Debug\net8.0\cinema.AssemblyInfoInputs.cache
+D:\DotNet\cinema\cinema\obj\Debug\net8.0\cinema.AssemblyInfo.cs
+D:\DotNet\cinema\cinema\obj\Debug\net8.0\cinema.csproj.CoreCompileInputs.cache
+D:\DotNet\cinema\cinema\obj\Debug\net8.0\cinema.MvcApplicationPartsAssemblyInfo.cache
+D:\DotNet\cinema\cinema\obj\Debug\net8.0\staticwebassets.build.json
+D:\DotNet\cinema\cinema\obj\Debug\net8.0\staticwebassets.development.json
+D:\DotNet\cinema\cinema\obj\Debug\net8.0\staticwebassets\msbuild.cinema.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DotNet\cinema\cinema\obj\Debug\net8.0\staticwebassets\msbuild.build.cinema.props
+D:\DotNet\cinema\cinema\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.cinema.props
+D:\DotNet\cinema\cinema\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.cinema.props
+D:\DotNet\cinema\cinema\obj\Debug\net8.0\staticwebassets.pack.json
+D:\DotNet\cinema\cinema\obj\Debug\net8.0\scopedcss\bundle\cinema.styles.css
+D:\DotNet\cinema\cinema\obj\Debug\net8.0\cinema.csproj.Up2Date
+D:\DotNet\cinema\cinema\obj\Debug\net8.0\cinema.dll
+D:\DotNet\cinema\cinema\obj\Debug\net8.0\refint\cinema.dll
+D:\DotNet\cinema\cinema\obj\Debug\net8.0\cinema.pdb
+D:\DotNet\cinema\cinema\obj\Debug\net8.0\cinema.genruntimeconfig.cache
+D:\DotNet\cinema\cinema\obj\Debug\net8.0\ref\cinema.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\BCrypt.Net-Core.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\code\angular\cinema\be\cinema\cinema\bin\Debug\net8.0\Twilio.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\appsettings.Development.json
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\appsettings.json
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\cinema.exe
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\cinema.deps.json
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\cinema.runtimeconfig.json
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\cinema.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\cinema.pdb
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\BCrypt.Net-Core.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\Castle.Core.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\Google.Apis.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\Google.Apis.Auth.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\Google.Apis.Core.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\Google.Protobuf.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\Humanizer.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\MySql.Data.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\System.CodeDom.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\System.Management.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\Twilio.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\ZstdSharp.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+D:\FinalCode\cinema\cinema\cinema\obj\Debug\net8.0\cinema.csproj.AssemblyReference.cache
+D:\FinalCode\cinema\cinema\cinema\obj\Debug\net8.0\cinema.GeneratedMSBuildEditorConfig.editorconfig
+D:\FinalCode\cinema\cinema\cinema\obj\Debug\net8.0\cinema.AssemblyInfoInputs.cache
+D:\FinalCode\cinema\cinema\cinema\obj\Debug\net8.0\cinema.AssemblyInfo.cs
+D:\FinalCode\cinema\cinema\cinema\obj\Debug\net8.0\cinema.csproj.CoreCompileInputs.cache
+D:\FinalCode\cinema\cinema\cinema\obj\Debug\net8.0\cinema.MvcApplicationPartsAssemblyInfo.cache
+D:\FinalCode\cinema\cinema\cinema\obj\Debug\net8.0\staticwebassets.build.json
+D:\FinalCode\cinema\cinema\cinema\obj\Debug\net8.0\staticwebassets.development.json
+D:\FinalCode\cinema\cinema\cinema\obj\Debug\net8.0\staticwebassets\msbuild.cinema.Microsoft.AspNetCore.StaticWebAssets.props
+D:\FinalCode\cinema\cinema\cinema\obj\Debug\net8.0\staticwebassets\msbuild.build.cinema.props
+D:\FinalCode\cinema\cinema\cinema\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.cinema.props
+D:\FinalCode\cinema\cinema\cinema\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.cinema.props
+D:\FinalCode\cinema\cinema\cinema\obj\Debug\net8.0\staticwebassets.pack.json
+D:\FinalCode\cinema\cinema\cinema\obj\Debug\net8.0\scopedcss\bundle\cinema.styles.css
+D:\FinalCode\cinema\cinema\cinema\obj\Debug\net8.0\cinema.csproj.Up2Date
+D:\FinalCode\cinema\cinema\cinema\obj\Debug\net8.0\cinema.dll
+D:\FinalCode\cinema\cinema\cinema\obj\Debug\net8.0\refint\cinema.dll
+D:\FinalCode\cinema\cinema\cinema\obj\Debug\net8.0\cinema.pdb
+D:\FinalCode\cinema\cinema\cinema\obj\Debug\net8.0\cinema.genruntimeconfig.cache
+D:\FinalCode\cinema\cinema\cinema\obj\Debug\net8.0\ref\cinema.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\Google.Apis.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\Google.Apis.Auth.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\Google.Apis.Core.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\System.Management.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\Twilio.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
+D:\code\angular\cinema\be\cinema\cinema\cinema\bin\Debug\net8.0\cinema.staticwebassets.runtime.json
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\cinema.staticwebassets.runtime.json
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\Google.Apis.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\Google.Apis.Auth.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\Google.Apis.Core.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\System.Management.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\Twilio.dll
+D:\DotNet\cinema\cinema\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
+D:\FinalCode\cinema\cinema\cinema\bin\Debug\net8.0\cinema.staticwebassets.runtime.json

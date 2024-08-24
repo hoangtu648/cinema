@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\FinalCode\\cinema\\cinema\\cinema\\wwwroot\\images\\057928d927c1472894bea3ea42eded14.png",
+      "PackagePath": "staticwebassets\\images\\057928d927c1472894bea3ea42eded14.png"
+    },
+    {
+      "Id": "D:\\FinalCode\\cinema\\cinema\\cinema\\wwwroot\\images\\1.png",
+      "PackagePath": "staticwebassets\\images\\1.png"
+    },
+    {
+      "Id": "D:\\FinalCode\\cinema\\cinema\\cinema\\wwwroot\\images\\1482cb3fb7ac4c579af7595084dacc44.png",
+      "PackagePath": "staticwebassets\\images\\1482cb3fb7ac4c579af7595084dacc44.png"
+    },
+    {
+      "Id": "D:\\FinalCode\\cinema\\cinema\\cinema\\wwwroot\\images\\151956374423449685edc83af0ec7724.png",
+      "PackagePath": "staticwebassets\\images\\151956374423449685edc83af0ec7724.png"
+    },
+    {
+      "Id": "D:\\FinalCode\\cinema\\cinema\\cinema\\wwwroot\\images\\188c699375344e62abb8809b92723ce1.png",
+      "PackagePath": "staticwebassets\\images\\188c699375344e62abb8809b92723ce1.png"
+    },
+    {
+      "Id": "D:\\FinalCode\\cinema\\cinema\\cinema\\wwwroot\\images\\5ae026dc8d874ec99404cf65b8d070de.png",
+      "PackagePath": "staticwebassets\\images\\5ae026dc8d874ec99404cf65b8d070de.png"
+    },
+    {
+      "Id": "D:\\FinalCode\\cinema\\cinema\\cinema\\wwwroot\\images\\78c40b6d13ef4906ac5912deac20654d.png",
+      "PackagePath": "staticwebassets\\images\\78c40b6d13ef4906ac5912deac20654d.png"
+    },
+    {
+      "Id": "D:\\FinalCode\\cinema\\cinema\\cinema\\wwwroot\\images\\95dfe5deed94436ba243c20f06da4e19.png",
+      "PackagePath": "staticwebassets\\images\\95dfe5deed94436ba243c20f06da4e19.png"
+    },
+    {
+      "Id": "D:\\FinalCode\\cinema\\cinema\\cinema\\wwwroot\\images\\a34cd1a8fae94e47b8eead923d945fb4.png",
+      "PackagePath": "staticwebassets\\images\\a34cd1a8fae94e47b8eead923d945fb4.png"
+    },
+    {
+      "Id": "D:\\FinalCode\\cinema\\cinema\\cinema\\wwwroot\\images\\c36920204b3043acb71cd5384830c97f.png",
+      "PackagePath": "staticwebassets\\images\\c36920204b3043acb71cd5384830c97f.png"
+    },
+    {
+      "Id": "D:\\FinalCode\\cinema\\cinema\\cinema\\wwwroot\\images\\dda3560ff10d473cb95321fecf3b13f0.png",
+      "PackagePath": "staticwebassets\\images\\dda3560ff10d473cb95321fecf3b13f0.png"
+    },
+    {
+      "Id": "D:\\FinalCode\\cinema\\cinema\\cinema\\wwwroot\\images\\fdb03629fa9d4e5a9101220f580bcb73.png",
+      "PackagePath": "staticwebassets\\images\\fdb03629fa9d4e5a9101220f580bcb73.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.cinema.props",
+      "PackagePath": "build\\cinema.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.cinema.props",
+      "PackagePath": "buildMultiTargeting\\cinema.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.cinema.props",
+      "PackagePath": "buildTransitive\\cinema.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.cinema.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

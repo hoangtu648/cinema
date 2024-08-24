@@ -1,0 +1,1001 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FinalCode\\cinema\\cinema\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\helpers\\datetimeconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\helpers\\datetimeconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\controllers\\showtimecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\controllers\\showtimecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\controllers\\seatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\controllers\\seatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\services\\seatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\services\\seatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\services\\seatserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\services\\seatserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\services\\paymentserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\services\\paymentserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\services\\followserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\services\\followserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\controllers\\cinemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\controllers\\cinemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\helpers\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\helpers\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\services\\backgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\services\\backgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\services\\showtimeserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\services\\showtimeserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\services\\bookingserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\services\\bookingserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\services\\showtimeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\services\\showtimeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\controllers\\followcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\controllers\\followcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\services\\followservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\services\\followservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\services\\accountserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\services\\accountserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\services\\chatserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\services\\chatserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\services\\cinemaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\services\\cinemaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\services\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\services\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\models\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\models\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\models\\sub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\models\\sub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\models\\movielanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\models\\movielanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\helpers\\smshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\helpers\\smshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\helpers\\mailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\helpers\\mailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\controllers\\ratingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\controllers\\ratingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\services\\ratingserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\services\\ratingserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\models\\combodetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\models\\combodetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\services\\ratingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\services\\ratingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\services\\roomserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\services\\roomserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\services\\cinemaserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\services\\cinemaserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\services\\comboserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\services\\comboserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\services\\movieserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\services\\movieserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\controllers\\combocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\controllers\\combocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\services\\comboservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\services\\comboservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\models\\combo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\models\\combo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\models\\seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\models\\seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\models\\bookingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\models\\bookingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\models\\cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\models\\cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\models\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\models\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\helpers\\websocketmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\helpers\\websocketmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|d:\\finalcode\\cinema\\cinema\\cinema\\models\\showtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C900D5E4-F7B1-4674-92B0-E5A8ED46EF39}|cinema\\cinema.csproj|solutionrelative:cinema\\models\\showtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ComboDetail.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Models\\ComboDetail.cs",
+              "RelativeDocumentMoniker": "cinema\\Models\\ComboDetail.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Models\\ComboDetail.cs",
+              "RelativeToolTip": "cinema\\Models\\ComboDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T07:34:49.532Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SeatService.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Services\\SeatService.cs",
+              "RelativeDocumentMoniker": "cinema\\Services\\SeatService.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Services\\SeatService.cs",
+              "RelativeToolTip": "cinema\\Services\\SeatService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T16:37:36.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SeatServiceImpl.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Services\\SeatServiceImpl.cs",
+              "RelativeDocumentMoniker": "cinema\\Services\\SeatServiceImpl.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Services\\SeatServiceImpl.cs",
+              "RelativeToolTip": "cinema\\Services\\SeatServiceImpl.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T16:37:02.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "cinema\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "cinema\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwJ8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T08:37:43.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "cinema\\Controllers\\MovieController.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "cinema\\Controllers\\MovieController.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAcwGgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T13:36:40.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\appsettings.json",
+              "RelativeDocumentMoniker": "cinema\\appsettings.json",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\appsettings.json",
+              "RelativeToolTip": "cinema\\appsettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-03T08:31:57.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SeatController.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Controllers\\SeatController.cs",
+              "RelativeDocumentMoniker": "cinema\\Controllers\\SeatController.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Controllers\\SeatController.cs",
+              "RelativeToolTip": "cinema\\Controllers\\SeatController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T09:00:55.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Program.cs",
+              "RelativeDocumentMoniker": "cinema\\Program.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Program.cs",
+              "RelativeToolTip": "cinema\\Program.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAAC8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T08:27:17.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BookingServiceImpl.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Services\\BookingServiceImpl.cs",
+              "RelativeDocumentMoniker": "cinema\\Services\\BookingServiceImpl.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Services\\BookingServiceImpl.cs",
+              "RelativeToolTip": "cinema\\Services\\BookingServiceImpl.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAADwvzkAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T18:01:31.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FollowServiceImpl.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Services\\FollowServiceImpl.cs",
+              "RelativeDocumentMoniker": "cinema\\Services\\FollowServiceImpl.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Services\\FollowServiceImpl.cs",
+              "RelativeToolTip": "cinema\\Services\\FollowServiceImpl.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAEwCEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T06:55:41.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PaymentServiceImpl.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Services\\PaymentServiceImpl.cs",
+              "RelativeDocumentMoniker": "cinema\\Services\\PaymentServiceImpl.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Services\\PaymentServiceImpl.cs",
+              "RelativeToolTip": "cinema\\Services\\PaymentServiceImpl.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAuwDEAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:11:22.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "cinema\\Controllers\\PaymentController.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "cinema\\Controllers\\PaymentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:12:11.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShowTimeController.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Controllers\\ShowTimeController.cs",
+              "RelativeDocumentMoniker": "cinema\\Controllers\\ShowTimeController.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Controllers\\ShowTimeController.cs",
+              "RelativeToolTip": "cinema\\Controllers\\ShowTimeController.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAawIsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T07:53:20.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CinemaController.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Controllers\\CinemaController.cs",
+              "RelativeDocumentMoniker": "cinema\\Controllers\\CinemaController.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Controllers\\CinemaController.cs",
+              "RelativeToolTip": "cinema\\Controllers\\CinemaController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T06:42:49.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ShowTimeServiceImpl.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Services\\ShowTimeServiceImpl.cs",
+              "RelativeDocumentMoniker": "cinema\\Services\\ShowTimeServiceImpl.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Services\\ShowTimeServiceImpl.cs",
+              "RelativeToolTip": "cinema\\Services\\ShowTimeServiceImpl.cs",
+              "ViewState": "AQIAAKMAAAAAAAAAAAA0wK4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T07:47:56.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ShowTimeService.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Services\\ShowTimeService.cs",
+              "RelativeDocumentMoniker": "cinema\\Services\\ShowTimeService.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Services\\ShowTimeService.cs",
+              "RelativeToolTip": "cinema\\Services\\ShowTimeService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T07:47:23.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FollowController.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Controllers\\FollowController.cs",
+              "RelativeDocumentMoniker": "cinema\\Controllers\\FollowController.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Controllers\\FollowController.cs",
+              "RelativeToolTip": "cinema\\Controllers\\FollowController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAcwD0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T06:56:49.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FileHelper.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Helpers\\FileHelper.cs",
+              "RelativeDocumentMoniker": "cinema\\Helpers\\FileHelper.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Helpers\\FileHelper.cs",
+              "RelativeToolTip": "cinema\\Helpers\\FileHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T08:42:13.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BackgroundService.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Services\\BackgroundService.cs",
+              "RelativeDocumentMoniker": "cinema\\Services\\BackgroundService.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Services\\BackgroundService.cs",
+              "RelativeToolTip": "cinema\\Services\\BackgroundService.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAcwCgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T06:45:42.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "cinema\\Controllers\\ChatController.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "cinema\\Controllers\\ChatController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T07:47:29.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AccountServiceImpl.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Services\\AccountServiceImpl.cs",
+              "RelativeDocumentMoniker": "cinema\\Services\\AccountServiceImpl.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Services\\AccountServiceImpl.cs",
+              "RelativeToolTip": "cinema\\Services\\AccountServiceImpl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T08:34:37.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FollowService.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Services\\FollowService.cs",
+              "RelativeDocumentMoniker": "cinema\\Services\\FollowService.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Services\\FollowService.cs",
+              "RelativeToolTip": "cinema\\Services\\FollowService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T06:55:23.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "cinema\\Controllers\\BookingController.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "cinema\\Controllers\\BookingController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T18:02:35.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Services\\BookingService.cs",
+              "RelativeDocumentMoniker": "cinema\\Services\\BookingService.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Services\\BookingService.cs",
+              "RelativeToolTip": "cinema\\Services\\BookingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T18:00:58.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Models\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "cinema\\Models\\MyDbContext.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Models\\MyDbContext.cs",
+              "RelativeToolTip": "cinema\\Models\\MyDbContext.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T08:33:13.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CinemaService.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Services\\CinemaService.cs",
+              "RelativeDocumentMoniker": "cinema\\Services\\CinemaService.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Services\\CinemaService.cs",
+              "RelativeToolTip": "cinema\\Services\\CinemaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T06:41:31.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ChatServiceImpl.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Services\\ChatServiceImpl.cs",
+              "RelativeDocumentMoniker": "cinema\\Services\\ChatServiceImpl.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Services\\ChatServiceImpl.cs",
+              "RelativeToolTip": "cinema\\Services\\ChatServiceImpl.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAEwDIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T07:52:31.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ChatService.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Services\\ChatService.cs",
+              "RelativeDocumentMoniker": "cinema\\Services\\ChatService.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Services\\ChatService.cs",
+              "RelativeToolTip": "cinema\\Services\\ChatService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T07:58:07.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "cinema\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "cinema\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAkwD0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T16:32:48.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "cinema\\Services\\AccountService.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Services\\AccountService.cs",
+              "RelativeToolTip": "cinema\\Services\\AccountService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T08:34:17.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Chat.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Models\\Chat.cs",
+              "RelativeDocumentMoniker": "cinema\\Models\\Chat.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Models\\Chat.cs",
+              "RelativeToolTip": "cinema\\Models\\Chat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T07:40:47.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Sub.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Models\\Sub.cs",
+              "RelativeDocumentMoniker": "cinema\\Models\\Sub.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Models\\Sub.cs",
+              "RelativeToolTip": "cinema\\Models\\Sub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T13:30:51.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "cinema\\Models\\Booking.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Models\\Booking.cs",
+              "RelativeToolTip": "cinema\\Models\\Booking.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T13:27:27.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DateTimeConverter.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Helpers\\DateTimeConverter.cs",
+              "RelativeDocumentMoniker": "cinema\\Helpers\\DateTimeConverter.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Helpers\\DateTimeConverter.cs",
+              "RelativeToolTip": "cinema\\Helpers\\DateTimeConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAawAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T08:28:14.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SMSHelper.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Helpers\\SMSHelper.cs",
+              "RelativeDocumentMoniker": "cinema\\Helpers\\SMSHelper.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Helpers\\SMSHelper.cs",
+              "RelativeToolTip": "cinema\\Helpers\\SMSHelper.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAUwAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T07:33:50.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "MailHelper.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Helpers\\MailHelper.cs",
+              "RelativeDocumentMoniker": "cinema\\Helpers\\MailHelper.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Helpers\\MailHelper.cs",
+              "RelativeToolTip": "cinema\\Helpers\\MailHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T13:00:57.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "RatingController.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Controllers\\RatingController.cs",
+              "RelativeDocumentMoniker": "cinema\\Controllers\\RatingController.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Controllers\\RatingController.cs",
+              "RelativeToolTip": "cinema\\Controllers\\RatingController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAswHAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T07:12:30.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MovieLanguage.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Models\\MovieLanguage.cs",
+              "RelativeDocumentMoniker": "cinema\\Models\\MovieLanguage.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Models\\MovieLanguage.cs",
+              "RelativeToolTip": "cinema\\Models\\MovieLanguage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T08:03:19.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "RatingServiceImpl.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Services\\RatingServiceImpl.cs",
+              "RelativeDocumentMoniker": "cinema\\Services\\RatingServiceImpl.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Services\\RatingServiceImpl.cs",
+              "RelativeToolTip": "cinema\\Services\\RatingServiceImpl.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowBkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:40:36.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "cinema\\Services\\PaymentService.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Services\\PaymentService.cs",
+              "RelativeToolTip": "cinema\\Services\\PaymentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:10:53.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "RoomController.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Controllers\\RoomController.cs",
+              "RelativeDocumentMoniker": "cinema\\Controllers\\RoomController.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Controllers\\RoomController.cs",
+              "RelativeToolTip": "cinema\\Controllers\\RoomController.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAiwHcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T08:19:45.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CinemaServiceImpl.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Services\\CinemaServiceImpl.cs",
+              "RelativeDocumentMoniker": "cinema\\Services\\CinemaServiceImpl.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Services\\CinemaServiceImpl.cs",
+              "RelativeToolTip": "cinema\\Services\\CinemaServiceImpl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T06:41:46.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "RoomServiceImpl.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Services\\RoomServiceImpl.cs",
+              "RelativeDocumentMoniker": "cinema\\Services\\RoomServiceImpl.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Services\\RoomServiceImpl.cs",
+              "RelativeToolTip": "cinema\\Services\\RoomServiceImpl.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAADwvzoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T08:18:23.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "RatingService.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Services\\RatingService.cs",
+              "RelativeDocumentMoniker": "cinema\\Services\\RatingService.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Services\\RatingService.cs",
+              "RelativeToolTip": "cinema\\Services\\RatingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T15:44:25.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "MovieServiceImpl.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Services\\MovieServiceImpl.cs",
+              "RelativeDocumentMoniker": "cinema\\Services\\MovieServiceImpl.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Services\\MovieServiceImpl.cs",
+              "RelativeToolTip": "cinema\\Services\\MovieServiceImpl.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowBsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T13:32:29.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "RoomService.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Services\\RoomService.cs",
+              "RelativeDocumentMoniker": "cinema\\Services\\RoomService.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Services\\RoomService.cs",
+              "RelativeToolTip": "cinema\\Services\\RoomService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T08:18:06.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ComboServiceImpl.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Services\\ComboServiceImpl.cs",
+              "RelativeDocumentMoniker": "cinema\\Services\\ComboServiceImpl.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Services\\ComboServiceImpl.cs",
+              "RelativeToolTip": "cinema\\Services\\ComboServiceImpl.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowBQAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T16:50:03.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ComboService.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Services\\ComboService.cs",
+              "RelativeDocumentMoniker": "cinema\\Services\\ComboService.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Services\\ComboService.cs",
+              "RelativeToolTip": "cinema\\Services\\ComboService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T16:49:40.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ComboController.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Controllers\\ComboController.cs",
+              "RelativeDocumentMoniker": "cinema\\Controllers\\ComboController.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Controllers\\ComboController.cs",
+              "RelativeToolTip": "cinema\\Controllers\\ComboController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwGUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T16:51:51.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "cinema\\Models\\Movie.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Models\\Movie.cs",
+              "RelativeToolTip": "cinema\\Models\\Movie.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAuwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T14:01:31.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Combo.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Models\\Combo.cs",
+              "RelativeDocumentMoniker": "cinema\\Models\\Combo.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Models\\Combo.cs",
+              "RelativeToolTip": "cinema\\Models\\Combo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T16:52:06.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Seat.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Models\\Seat.cs",
+              "RelativeDocumentMoniker": "cinema\\Models\\Seat.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Models\\Seat.cs",
+              "RelativeToolTip": "cinema\\Models\\Seat.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T09:03:08.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Services\\MovieService.cs",
+              "RelativeDocumentMoniker": "cinema\\Services\\MovieService.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Services\\MovieService.cs",
+              "RelativeToolTip": "cinema\\Services\\MovieService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T13:31:25.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "cinema\\Models\\Account.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Models\\Account.cs",
+              "RelativeToolTip": "cinema\\Models\\Account.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwBcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T08:33:24.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "BookingDetail.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Models\\BookingDetail.cs",
+              "RelativeDocumentMoniker": "cinema\\Models\\BookingDetail.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Models\\BookingDetail.cs",
+              "RelativeToolTip": "cinema\\Models\\BookingDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T13:30:38.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Cinema.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Models\\Cinema.cs",
+              "RelativeDocumentMoniker": "cinema\\Models\\Cinema.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Models\\Cinema.cs",
+              "RelativeToolTip": "cinema\\Models\\Cinema.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T06:53:37.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Room.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "cinema\\Models\\Room.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Models\\Room.cs",
+              "RelativeToolTip": "cinema\\Models\\Room.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T09:26:08.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Rating.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Models\\Rating.cs",
+              "RelativeDocumentMoniker": "cinema\\Models\\Rating.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Models\\Rating.cs",
+              "RelativeToolTip": "cinema\\Models\\Rating.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T06:53:51.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "cinema\\Models\\Payment.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Models\\Payment.cs",
+              "RelativeToolTip": "cinema\\Models\\Payment.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:21:03.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "WebSocketManager.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Helpers\\WebSocketManager.cs",
+              "RelativeDocumentMoniker": "cinema\\Helpers\\WebSocketManager.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Helpers\\WebSocketManager.cs",
+              "RelativeToolTip": "cinema\\Helpers\\WebSocketManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:39:48.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Showtime.cs",
+              "DocumentMoniker": "D:\\FinalCode\\cinema\\cinema\\cinema\\Models\\Showtime.cs",
+              "RelativeDocumentMoniker": "cinema\\Models\\Showtime.cs",
+              "ToolTip": "D:\\FinalCode\\cinema\\cinema\\cinema\\Models\\Showtime.cs",
+              "RelativeToolTip": "cinema\\Models\\Showtime.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAYwBcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T14:02:04.412Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
