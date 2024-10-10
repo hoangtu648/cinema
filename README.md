@@ -1,5 +1,5 @@
 Building a website to sell movie tickets using .NET and Angular" aims to create an online platform called T-Cinema, helping users easily search, book movie tickets, and pay online easily. Convenient and fast. With the combination of .NET technology on the server side and Angular on the client side, the website not only ensures stability and security but also provides a modern, friendly user interface. <br>
-Cinema aims to improve user experience through integrating functions such as viewing movie showtimes, selecting seats, booking tickets and paying online. <br>
+T-Cinema aims to improve user experience through integrating functions such as viewing movie showtimes, selecting seats, booking tickets and paying online. <br>
 <b>Main users of the website:</b> <br>
 Including general users who regularly watch movies and want a simple, fast way to buy tickets without having to stand in line at the theater.  <br>
 In addition, movie theaters can also use this system to manage showtimes, number of tickets sold, and promotions. System administrators can track all business activities, including revenue, number of tickets sold, and manage the current movie database. <br>
@@ -19,3 +19,7 @@ In addition, movie theaters can also use this system to manage showtimes, number
 <h5>Admin:</h5>
 
 ![image](https://github.com/user-attachments/assets/ee6d80c5-a2ee-4237-9123-95a86de63acb)
+
+<br>
+<h5>User:</h5>
+![image](https://github.com/user-attachments/assets/3f7f97a7-70af-4261-afcb-a2369e6836ec)
