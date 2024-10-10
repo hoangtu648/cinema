@@ -35,6 +35,6 @@ In addition, movie theaters can also use this system to manage showtimes, number
 
 <h3><strong>User interface and functions</strong></h3>
 
-<a href="https://github.com/hoangtu648/cinema_user">See admin functions</a>
+<a href="https://github.com/hoangtu648/cinema_user">See user functions</a>
 
 
