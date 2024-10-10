@@ -27,6 +27,14 @@ In addition, movie theaters can also use this system to manage showtimes, number
 <br>
 <h3>Database:</h3>
 
+![image](https://github.com/user-attachments/assets/350582a0-919d-47a3-8537-4003e174f759)
 
+<h3><strong>Admin interface and functions</strong></h3>
+
+<a href="https://github.com/hoangtu648/cinema-admin">See admin functions</a>
+
+<h3><strong>User interface and functions</strong></h3>
+
+<a href="https://github.com/hoangtu648/cinema_user">See admin functions</a>
 
 
